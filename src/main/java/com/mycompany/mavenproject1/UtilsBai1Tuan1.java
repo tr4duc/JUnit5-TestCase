@@ -8,7 +8,7 @@ package com.mycompany.mavenproject1;
  *
  * @author ltd13
  */
-public class Utils {
+public class UtilsBai1Tuan1 {
     public static boolean ktNt(int n ) {
         if (n < 0)
             throw new ArithmeticException();
